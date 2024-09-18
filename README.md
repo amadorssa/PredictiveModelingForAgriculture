@@ -1,0 +1,5 @@
+# Predictive Modeling for Agriculture
+
+Este repositorio contiene el proyecto PredictiveModelingForAgriculture, desarrollado como parte del curso de Reconocimiento de Patrones. El objetivo principal de este proyecto es utilizar técnicas de clasificación, en particular la regresión logística, para predecir el cultivo óptimo para plantar en un campo determinado, basándose en características clave del suelo, como el contenido de nitrógeno, fósforo, potasio y el valor de pH.
+
+El proyecto utiliza datos proporcionados por una recopilación de mediciones de suelos, que incluyen diversas características físicas y químicas del suelo en diferentes campos. Este análisis permite identificar la relación entre las condiciones del suelo y el cultivo más adecuado, ayudando a los agricultores a tomar decisiones informadas para maximizar el rendimiento de sus cultivos.
